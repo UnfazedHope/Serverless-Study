@@ -4,4 +4,4 @@
 
 <b>Reading 2 : Serverless Computing: A Survey of Opportunities, Challenges, and Applications(Hosein Shafiei, A. Khonsari, P. Mousavi)</b>
 
-<b>Learnings :</b> 
+<b>Learnings :</b> This research paper gives more insight additional to the Reading 1. This paper thoroughly covers the opportunities(advantages), challenges(limitations) and applications of serverless computing. Introduction the services such as FaaS(Function-as-a-Service) and BaaS(Backend-as-a-Service) is provided in this paper and Serverless is basically nothing but the generalization of both FaaS and BaaS.
