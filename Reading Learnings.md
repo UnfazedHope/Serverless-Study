@@ -42,11 +42,17 @@
 
 <b>Learnings :</b> This research paper discusses the benefits and use cases of serverless computing using the AWS Lambda service. It explains how serverless computing allows for the development of scalable and cost-effective applications without the need for provisioning and managing servers. The paper provides examples of how AWS Lambda can be used to build web, mobile, and IoT applications, as well as how it can be integrated with other AWS services. The paper also covers the key concepts of serverless computing including event-driven programming, automatic scaling, and pay-per-use pricing. This the paper in brief presents a comprehensive overview of serverless computing using AWS Lambda and how it can be used to build highly scalable, cost-effective and efficient applications.
 
-<b>Reading 11 : </b>
+<b>Reading 11 : Amazon DynamoDB: A Scalable, PredictablyPerformant, and Fully Managed NoSQL Database Service (Paper - https://www.usenix.org/system/files/atc22-elhemali.pdf)</b>
 
-<b>Learnings :</b>
+<b>Learnings :</b> This research paper is about a new database invention i.e. Amazon DynamoDB and have mentioned the details regarding the same in this paper. The paper discusses Amazon DynamoDB, a scalable, predictably performant and fully managed NoSQL database service offered by Amazon Web Services (AWS). The paper explains how DynamoDB can handle high levels of read and write throughput and low latency by using a distributed architecture. It also describes how DynamoDB uses a data model based on tables, primary keys and secondary indexes to enable flexible and efficient querying of data. The paper also covers how DynamoDB allows for integration with other AWS services such as Lambda and S3 for further scalability and reliability. It also mentions about the performance and scalability testing done by the authors to understand the limits of DynamoDB and the results of those tests.
 
+<b>Reading 12 : Core concepts of Amazon DynamoDB (Article - https://medium.com/tensult/core-concepts-of-amazon-dynamodb-a265a3fc70a)</b>
 
+<b>Learnings :</b> This article provides general overview of Amazon DynamoDB and it's fundamentals. It mentions the key features and functionalities of Amazon's NoSQL database service, DynamoDB. It explains the basics of DynamoDB, such as its data model, primary key, and secondary indexes. The article also covers DynamoDB's scalability and performance capabilities, including its automatic partitioning and provisioned throughput.Moreover, it also covers the different read and write options available in DynamoDB, such as eventually consistent and strongly consistent reads. The article also highlights the security options available in DynamoDB, such as encryption and IAM policies. 
+
+<b>Reading 13 : Amazon DynamoDB — Basics (Article - https://medium.com/@_amanarora/dynamodb-2efdbcaebabc)</b>
+
+<b>Learnings :</b> This article covers all the basics needed to be able to use Amazon DynamoDB database. This article explains how Amazon DynamoDB, a fully managed NoSQL database service that supports key-value and document data structures. The article also covers the basics of creating and interacting with DynamoDB tables, including creating tables, inserting and querying data, and updating and deleting items. This article also explains how to use the AWS SDKs to access DynamoDB and best practices for using the service. This article in general, provides a good introduction to DynamoDB basics and its capabilities for developers looking to build serverless applications.
 
 
 
