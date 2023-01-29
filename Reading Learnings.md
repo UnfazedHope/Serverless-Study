@@ -34,11 +34,17 @@
 
 <b>Learnings :</b> This research paper conducts a comprehensive review of the existing literature on serverless functions, also known as Function-as-a-Service (FaaS). The authors aim to identify and analyze the common patterns and best practices for the design, implementation, and deployment of FaaS. Through a systematic literature review, the authors collect and classify a large number of papers and articles from various sources. Thereafter, author states many different topics like FaaS architecture, feaetures of serverless like scalability, security and performance. The main aim of this research paper was to provide a valuable resource for developers, researchers, and practitioners interested in Serverless Functions(FaaS), and highlights the key challenges and opportunities in this upcoming rapid evolving field.
 
+<b>Reading 9 : AWS Lambda & Amazon API Gateway — Not as daunting as they sound (Article - https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626)</b>
 
+<b>Learnings :</b> This article gives detailed explaination regarding AWS Lambda & Amazon API Gateway to create a serverless architecture for web application. Step by step instruction is also provided in this article regarding how to use AWS Lambda with Amazon API Gateway and also have created a sample application using the same. The article explains how to set up a Lambda function and how to connect it to an API Gateway, as well as how to add custom domains and how to handle different types of requests and responses. Overall, the article provides a comprehensive guide on how to use AWS Lambda and Amazon API Gateway to create a scalable, secure and cost-effective backend for web applications.    
 
+<b>Reading 10 : Serverless Architectures with AWS Lambda (Paper - https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)</b>
 
+<b>Learnings :</b> This research paper discusses the benefits and use cases of serverless computing using the AWS Lambda service. It explains how serverless computing allows for the development of scalable and cost-effective applications without the need for provisioning and managing servers. The paper provides examples of how AWS Lambda can be used to build web, mobile, and IoT applications, as well as how it can be integrated with other AWS services. The paper also covers the key concepts of serverless computing including event-driven programming, automatic scaling, and pay-per-use pricing. This the paper in brief presents a comprehensive overview of serverless computing using AWS Lambda and how it can be used to build highly scalable, cost-effective and efficient applications.
 
+<b>Reading 11 : </b>
 
+<b>Learnings :</b>
 
 
 
