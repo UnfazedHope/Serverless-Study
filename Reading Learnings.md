@@ -20,7 +20,11 @@
 
 <b>Reading 5 : Distributed Machine Learning with a Serverless Architecture (Hao Wang, Di Niu & Baochun Li)</b>
 
-<b>Learnings :</b>
+<b>Learnings :</b> This research paper is mainly about distributed machine learning, but it does cover very important details of the serverless architecture and its details. In this paper, authors have proposed a new framework named SIREN, which uses serverless technology with which its executes stateless functions without need to take the burden of managing virtual machines infrastructure. It also states that serverless computing technology also helps in the parallel data processing and low latency video processing. Author also has made the comparision of Serverless against AWS EC2 where he stated that using serverless cloud is much more cost efficient thanother monolithic services.
+
+<b>Reading 6 : Serverless Architecture Patterns in AWS (Article - https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32)</b>
+
+<b>Learnings :</b> 
 
 
 
