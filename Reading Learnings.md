@@ -18,6 +18,12 @@
 
 <b>Learnings :</b> This article covers the fundamentals of serverless computing. The Article also shares that how there is no "virtual infrastructure for the user to manage" and also the cost will be applied when the user's code is running live. The article also mentions that serverless computing is becoming more popular in the industry, with companies such as AWS, Microsoft, and Google offering serverless computing options. Serverless Computing also has some challenges like cold starts, vendor lock-in, etc. The article also states that this serverless computing is a promising technology that can bring various benefits to the companies, but it is important to also minutely consider the trade-offs and potential challenges before fully committing to a serverless architecture.
 
+<b>Reading 5 : Distributed Machine Learning with a Serverless Architecture (Hao Wang, Di Niu & Baochun Li)</b>
+
+<b>Learnings :</b>
+
+
+
 
 
 
