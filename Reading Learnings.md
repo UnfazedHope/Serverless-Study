@@ -14,4 +14,10 @@
 
 <b>Learnings :</b> This article explains the basics of serverless computing, how it differs from the traditional infrastructure, and its benefits. The article also shares that how the serverless computing is cost beneficial for us on its usage compared to the other alternatives. Serverless computing is also more flexible and scalable in terms of performance metrics. Serverless is particularly useful for event-driven computing, such as running functions in response to specific actions. Serverless computing is now being used in the industries on frequent basis and is becoming increasingly popular as a way to deploy and run applications.
 
+<b>Reading 4 : Serverless computing: A cheat sheet (Article - https://www.techrepublic.com/article/serverless-computing-the-smart-persons-guide/)</b>
+
+<b>Learnings :</b> This article covers the fundamentals of serverless computing. The Article also shares that how there is no "virtual infrastructure for the user to manage" and also the cost will be applied when the user's code is running live. The article also mentions that serverless computing is becoming more popular in the industry, with companies such as AWS, Microsoft, and Google offering serverless computing options. Serverless Computing also has some challenges like cold starts, vendor lock-in, etc. The article also states that this serverless computing is a promising technology that can bring various benefits to the companies, but it is important to also minutely consider the trade-offs and potential challenges before fully committing to a serverless architecture.
+
+
+
 
