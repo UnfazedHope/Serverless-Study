@@ -24,7 +24,31 @@
 
 <b>Reading 6 : Serverless Architecture Patterns in AWS (Article - https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32)</b>
 
-<b>Learnings :</b> 
+<b>Learnings :</b> This article covers all the serverless architecture patterns in AWS from basic to advance based on the situation we face. The most fundamental pattern is Client -> API Gateway -> Lambda Function -> Dynamo DB. Based on this pattern other advanced patterns can be derived but this is most important pattern needed to understand the serveless computing. This article also covers the pros and cons of serverless architecture and how it can be used to build scalable, cost-effective and high-performing applications. It also includes details on how to use AWS Lambda, API Gateway, and DynamoDB to build serverless applications. Additionally, it mentions how to use AWS Step Functions to build state machines and how to use AWS CloudFormation to manage and deploy serverless applications. Overall, the article offers a thorough review of the many serverless architecture patterns that can be used on AWS and the advantages they can offer to developers and industries.
+
+<b>Reading 7 : Serverless Architecture - A Revolution in Cloud Computing (R. Arokia Paul Rajan)</b>
+
+<b>Learnings :</b> This research paper gives more insight into Serverless Architecture. The author explores the key features of serverless architecture in this research paper. He also conveys the advantages of Serverless Architecture like its ability to scale automatically, cost efficient and improving the overall efficiency of the cloud-based systems. The research paper also covers few limitations/challenges like risk of vendor lock-in and the need for specialized skills. The author also discusses about the future of serverless architecture including the potential for increased use in areas such as IoT and machine learning. The main aim of this paper is to highlight the potential for serverless architecture to revolutionize the way we build and deploy cloud-based applications, and the need for further research and development in this area to fully realize its benefits. 
+
+<b>Reading 8 : Patterns for Serverless Functions (Function-as-a-Service): A Multivocal Literature Review (Davide Taibi , Nabil El Ioini, Claus Pahl and Jan Raphael Schmid Niederkofler)</b>
+
+<b>Learnings :</b> This research paper conducts a comprehensive review of the existing literature on serverless functions, also known as Function-as-a-Service (FaaS). The authors aim to identify and analyze the common patterns and best practices for the design, implementation, and deployment of FaaS. Through a systematic literature review, the authors collect and classify a large number of papers and articles from various sources. Thereafter, author states many different topics like FaaS architecture, feaetures of serverless like scalability, security and performance. The main aim of this research paper was to provide a valuable resource for developers, researchers, and practitioners interested in Serverless Functions(FaaS), and highlights the key challenges and opportunities in this upcoming rapid evolving field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
