@@ -64,7 +64,7 @@
 
 <b>Reading 16 : Rise of the Planet of Serverless Computing: A Systematic Review (Jinfeng Wen, Zhenpeng Chen, Xin Jin, Xuanzhe Liu)</b>
 
-<b>Learnings :</b> 
+<b>Learnings :</b> This paper gives a brief overall overview about Serverless Computing and also its features. The authors begin by defining serverless computing and its advantages, like cost-efficiency and scalability. They then carry out an extensive review of existing literature on serverless computing, categorizing it into various categories like architecture, security, performance, and case studies. The authors also analyze the challenges and trends in the field of serverless computing and emphasize the need for further research. They compare different serverless computing platforms, including AWS Lambda, Google Cloud Functions, OpenFaaS and OpenLambda. The paper concludes with recommendations for future research and advancements in serverless computing. 
 
 
 
