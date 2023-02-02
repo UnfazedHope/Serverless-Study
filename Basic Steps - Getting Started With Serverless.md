@@ -10,3 +10,9 @@ This can be done using following steps :-<br>
 2] After creating user, you will need to explicitly create AWS access key, which will give us two access keys one is public access key and one will be secret access key<br>
 3] Next step is to run the aws configure command in your Command Line Prompt and put those access keys to configure your AWS Account.<br>
 4] you may leave other fields as default(none) that won't affect your development process.<br>
+
+After that, you will need to setup the serverless framework in your system. You can install this using the command "npm install -g serverless" 
+
+
+
+
