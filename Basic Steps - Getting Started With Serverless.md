@@ -1,6 +1,6 @@
 First, to use the code in our local desktop, you will need to download AWS CLI from this link - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-After that you can check if the aws is properly installed or not using these two commands -
+After that you can check if the aws is properly installed or not using these two commands - <break>
 1] aws
 2] aws --version
 
