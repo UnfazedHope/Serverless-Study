@@ -18,7 +18,7 @@ After that, you will need to setup the serverless framework in your system. You 
 
 Now you can create your serverless application(It will work as Infrastructure-as-a-Service) using following steps :-
 
-1] serverless
+1] put "serverless" command in cmd<br>
 2] After that it will show variety of option which will mention the type of the project you need to create :-
 <br>
   AWS - Node.js - Starter<br>
@@ -34,9 +34,8 @@ Now you can create your serverless application(It will work as Infrastructure-as
   AWS - Python - Flask API<br>
   AWS - Python - Flask API with DynamoDB<br>
   Other<br>
-  
- 3] Let's go ahead with AWS - Node.js - HTTP API
- 4] Now it will create our project folder
+ 3] Let's go ahead with AWS - Node.js - HTTP API<br>
+ 4] Now it will create our project folder<br>
  
  
 # Default Code & Files of our Serverless Folder :- 
