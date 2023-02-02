@@ -20,19 +20,20 @@ Now you can create your serverless application(It will work as Infrastructure-as
 
 1] serverless
 2] After that it will show variety of option which will mention the type of the project you need to create :-
-  AWS - Node.js - Starter
-  AWS - Node.js - HTTP API
-  AWS - Node.js - Scheduled Task
-  AWS - Node.js - SQS Worker
-  AWS - Node.js - Express API
-  AWS - Node.js - Express API with DynamoDB
-  AWS - Python - Starter
-  AWS - Python - HTTP API
-  AWS - Python - Scheduled Task
-  AWS - Python - SQS Worker
-  AWS - Python - Flask API
-  AWS - Python - Flask API with DynamoDB
-  Other
+<br>
+  AWS - Node.js - Starter<br>
+  AWS - Node.js - HTTP API<br>
+  AWS - Node.js - Scheduled Task<br>
+  AWS - Node.js - SQS Worker<br>
+  AWS - Node.js - Express API<br>
+  AWS - Node.js - Express API with DynamoDB<br>
+  AWS - Python - Starter<br>
+  AWS - Python - HTTP API<br>
+  AWS - Python - Scheduled Task<br>
+  AWS - Python - SQS Worker<br>
+  AWS - Python - Flask API<br>
+  AWS - Python - Flask API with DynamoDB<br>
+  Other<br>
   
  3] Let's go ahead with AWS - Node.js - HTTP API
  4] Now it will create our project folder
