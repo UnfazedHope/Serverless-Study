@@ -72,7 +72,7 @@ jspm_packages
 3] serverless.yaml (Important File)
 
 Code-
-
+```yaml
 service: aws-node-http-api-project
 frameworkVersion: '3'
 
@@ -87,7 +87,7 @@ functions:
       - httpApi:
           path: /
           method: get
-
+```
 
 
 
