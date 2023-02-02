@@ -13,6 +13,78 @@ This can be done using following steps :-<br>
 
 After that, you will need to setup the serverless framework in your system. You can install this using the command "npm install -g serverless" 
 
+Now you can create your serverless application(It will work as Infrastructure-as-a-Service) using following steps :-
+
+1] serverless
+2] After that it will show variety of option which will mention the type of the project you need to create :-
+  AWS - Node.js - Starter
+  AWS - Node.js - HTTP API
+  AWS - Node.js - Scheduled Task
+  AWS - Node.js - SQS Worker
+  AWS - Node.js - Express API
+  AWS - Node.js - Express API with DynamoDB
+  AWS - Python - Starter
+  AWS - Python - HTTP API
+  AWS - Python - Scheduled Task
+  AWS - Python - SQS Worker
+  AWS - Python - Flask API
+  AWS - Python - Flask API with DynamoDB
+  Other
+  
+ 3] Let's go ahead with AWS - Node.js - HTTP API
+ 4] Now it will create our project folder
+ 
+ 
+Default Code & Files of our Serverless Folder :- 
+
+1] index.js 
+
+Code -
+
+module.exports.handler = async (event) => {
+  return {
+    statusCode: 200,
+    body: JSON.stringify(
+      {
+        message: "Go Serverless v3.0! Your function executed successfully!",
+        input: event,
+      },
+      null,
+      2
+    ),
+  };
+};
+
+2] .gitignore
+
+Code-
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+3] serverless.yaml (Important File)
+
+Code-
+
+service: aws-node-http-api-project
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+functions:
+  api:
+    handler: index.handler
+    events:
+      - httpApi:
+          path: /
+          method: get
+
 
 
 
