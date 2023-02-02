@@ -1,3 +1,6 @@
+
+# Steps to setup our Serverless Environment
+
 First, to use the code in our local desktop, you will need to download AWS CLI from this link - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 <br>
 After that you can check if the aws is properly installed or not using these two commands - <br>
@@ -35,7 +38,7 @@ Now you can create your serverless application(It will work as Infrastructure-as
  4] Now it will create our project folder
  
  
-Default Code & Files of our Serverless Folder :- 
+# Default Code & Files of our Serverless Folder :- 
 
 1] index.js 
 
@@ -59,11 +62,11 @@ module.exports.handler = async (event) => {
 
 Code-
 
-# package directories
+##package directories
 node_modules
 jspm_packages
 
-# Serverless directories
+##Serverless directories
 .serverless
 
 3] serverless.yaml (Important File)
