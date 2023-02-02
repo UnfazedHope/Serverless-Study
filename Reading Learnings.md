@@ -48,11 +48,23 @@
 
 <b>Reading 12 : Core concepts of Amazon DynamoDB (Article - https://medium.com/tensult/core-concepts-of-amazon-dynamodb-a265a3fc70a)</b>
 
-<b>Learnings :</b> This article provides general overview of Amazon DynamoDB and it's fundamentals. It mentions the key features and functionalities of Amazon's NoSQL database service, DynamoDB. It explains the basics of DynamoDB, such as its data model, primary key, and secondary indexes. The article also covers DynamoDB's scalability and performance capabilities, including its automatic partitioning and provisioned throughput.Moreover, it also covers the different read and write options available in DynamoDB, such as eventually consistent and strongly consistent reads. The article also highlights the security options available in DynamoDB, such as encryption and IAM policies. 
+<b>Learnings :</b> This article provides general overview of Amazon DynamoDB and it's fundamentals. It mentions the key features and functionalities of Amazon's NoSQL database service, DynamoDB. It explains the basics of DynamoDB, such as its data model, primary key, and secondary indexes. The article also covers DynamoDB's scalability and performance capabilities, including its automatic partitioning and provisioned throughput. Moreover, it also covers the different read and write options available in DynamoDB, such as eventually consistent and strongly consistent reads. The article also highlights the security options available in DynamoDB, such as encryption and IAM policies. 
 
 <b>Reading 13 : Amazon DynamoDB — Basics (Article - https://medium.com/@_amanarora/dynamodb-2efdbcaebabc)</b>
 
 <b>Learnings :</b> This article covers all the basics needed to be able to use Amazon DynamoDB database. This article explains how Amazon DynamoDB, a fully managed NoSQL database service that supports key-value and document data structures. The article also covers the basics of creating and interacting with DynamoDB tables, including creating tables, inserting and querying data, and updating and deleting items. This article also explains how to use the AWS SDKs to access DynamoDB and best practices for using the service. This article in general, provides a good introduction to DynamoDB basics and its capabilities for developers looking to build serverless applications.
+
+<b>Reading 14 : A Review of Serverless Frameworks (Kyriakos Kritikos, Paweł Skrzypek)</b>
+
+<b>Learnings :</b> This paper provides a detailed look at the current state of serverless computing. The authors analyze various serverless frameworks(like some Provisioning Frameworks like Fission, Kubeless, IronFunctions, Sparta & some abstraction frameworks like AWS Lambda, Azure Functions,etc.) and their advantages, including scalability, cost-effectiveness, and flexibility. They also address the challenges and limitations of serverless computing, like slow start-up time and vendor dependency. The authors believe that, despite being in its early stages, serverless computing has the potential to transform the way applications are created and deployed. They offer advice to organizations considering serverless computing, suggesting they carefully weigh the pros and cons and target the appropriate use cases.
+
+<b>Reading 15 : A Review of Serverless Frameworks (Kyriakos Kritikos, Paweł Skrzypek)</b>
+
+<b>Learnings :</b> This paper examines the idea of serverless computing in the context of cloud software development. The authors first explain what serverless computing is, its advantages and disadvantages, and its defining features. They then evaluate different serverless computing platforms and frameworks, including Azure, AWS and Google cloud serverless computing, and compare them based on factors such as performance, scalability, and cost efficiency. The paper includes a case study to demonstrate how serverless computing can be used in real-world applications. The study ultimately finds that serverless computing is a promising technology for cloud software development, but also highlights the need for further research and improvements in areas like security, performance, and scalability.
+
+<b>Reading 16 : Rise of the Planet of Serverless Computing: A Systematic Review (Jinfeng Wen, Zhenpeng Chen, Xin Jin, Xuanzhe Liu)</b>
+
+<b>Learnings :</b> 
 
 
 
