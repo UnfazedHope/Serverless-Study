@@ -43,7 +43,7 @@ Now you can create your serverless application(It will work as Infrastructure-as
 1] index.js 
 
 Code -
-
+```js
 module.exports.handler = async (event) => {
   return {
     statusCode: 200,
@@ -57,18 +57,18 @@ module.exports.handler = async (event) => {
     ),
   };
 };
-
+```
 2] .gitignore
 
 Code-
-
+```.gitignore
 ##package directories
 node_modules
 jspm_packages
 
 ##Serverless directories
 .serverless
-
+```
 3] serverless.yaml (Important File)
 
 Code-
