@@ -1,5 +1,5 @@
 
-# Steps to setup our Serverless Environment
+# Steps to create our Serverless Environment
 
 First, to use the code in our local desktop, you will need to download AWS CLI from this link - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 <br>
