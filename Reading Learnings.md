@@ -68,10 +68,24 @@
 
 [<b>Reading 17 : Serverless Computing: Current Trends and Open Problems</b>](https://www.researchgate.net/publication/322092289_Serverless_Computing_Current_Trends_and_Open_Problems)
 
+<b>Learnings :</b> This paper analyzes about the current trends and challenges about the topic Serverless Computing. It is said that how from the previous few years the interests in the Serverless Computing technology is being generated throughout the industries which was reported by the Google Trends. It is also mentioned how Serverless Computing has evolved from the year 2014 to the recent years through various inventions like AWS lambda Functions, Google Cloud Functions, Microsoft Azure Functions,IBM OpenWhisk. Also comparision of the serverless platforms is being carried out using metrics such as cost, performance and limits, programming languages & models, composability, security & accounting, etc. In this paper, certain use cases and workloads have also been mentioned regarding serverless computing.
+
+[<b>Reading 18 : The Future Of Serverless Computing: 5 Trends</b>](https://witekio.com/de/blog-de/the-future-of-serverless-computing-5-trends/)
+
+<b>Learnings :</b> This is the article related to the trends of the future of serverless computing. There are in-total 5 trends which are memtnioned in this article such as FaaS(Function-as-a-Service), security will improve, easier observation and monitoring, the future needs to be green & the future of the serverless computing will be interconnected. Faas means Function as a service is already getting expanded year by year in the market. Serverless is what we call as Faas will keep on growing in the future. Secondly, the article focuses on the issue of security in serverless computing. It notes that security is often overlooked in many serverless applications, which results in a high percentage of open-source serverless projects containing critical vulnerabilities. The article highlights the findings of a survey conducted on the difficulties faced by developers in the serverless computing environment. The main challenge mentioned by 27% of the participants was monitoring their applications. The article predicts that in the future, the tools for observing and monitoring serverless applications will improve due to the growing market. Both commercial software vendors and open source projects are working towards creating effective solutions to monitor serverless applications efficiently.
+
+
+[<b>Reading 19 : Serverless Computing: An Emerging Trend of Cloud</b>](https://www.intuz.com/blog/serverless-computing-an-emerging-trend-of-cloud)
+
+<b>Learnings :</b> The article presents an overview of Serverless Computing, a rapidly developing technology in the field of Cloud Computing. It discusses the key benefits and drawbacks of using Serverless Computing and highlights its current trends. It is believed that Serverless Computing will continue to grow and play a crucial role in the future of cloud computing. Additionally, the article provides insights into the various opportunities and challenges that come with implementing Serverless Computing. It is a great resource for those who want to understand the basics and potential impact of this technology in the Cloud Computing technology.
+
+[<b>Reading 20 : Introduction to common serverless challenges</b>](https://www.prisma.io/dataguide/serverless/serverless-challenges)
+
 <b>Learnings :</b>
 
+[<b>Reading 21 : Securing Serverless Computing: Challenges,Solutions, and Opportunities</b>](https://arxiv.org/pdf/2105.12581.pdf)
 
-
+<b>Learnings :</b>
 
 
 
