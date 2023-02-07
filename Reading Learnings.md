@@ -81,11 +81,11 @@
 
 [<b>Reading 20 : Introduction to common serverless challenges</b>](https://www.prisma.io/dataguide/serverless/serverless-challenges)
 
-<b>Learnings :</b>
+<b>Learnings :</b> This article gives good information about common challenges faced by the developer while using Serverless architecture. This article helps by giving information about solving serveral challenges and how we can tackle through this challenges or work around them. First challenge which is most commonly discussed is cold start problem. As we know that serverless usually allows functions to get immediately executed but in some conditions this executions get into some predictable delays which causes this problem. Application design constraints is the limiting factor of serverless where the application can only work perfectly if it is in the limit of the Serverless Constraints. Serverless provider lock-in challenges is one of the difficult challenges to tackle. It occurs when we decide to change the provider source to a different provider but it causes several problems due to the same through  this problem. This article provides several challenges like this and how we can tackle them to avoid or tackle this problem when we develop our application.
 
-[<b>Reading 21 : Securing Serverless Computing: Challenges,Solutions, and Opportunities</b>](https://arxiv.org/pdf/2105.12581.pdf)
+[<b>Reading 21 : Securing Serverless Computing: Challenges, Solutions, and Opportunities</b>](https://arxiv.org/pdf/2105.12581.pdf)
 
-<b>Learnings :</b>
+<b>Learnings :</b> The paper focuses on the current state of Serverless Computing and highlights the challenges and limitations associated with it. It offers a comprehensive analysis of existing academic and industrial solutions and provides an in-depth examination of potential research opportunities within the field. The paper goes further to conduct a thorough evaluation of the current research landscape, identifying areas for improvement and future development. The authors aim to provide a comprehensive view of the Serverless Computing field, offering insight into existing problems and opportunities for growth. With the growing popularity of Serverless Computing, this paper serves as a valuable resource for anyone interested in understanding this technology and its potential for future trends in development.
 
 
 
