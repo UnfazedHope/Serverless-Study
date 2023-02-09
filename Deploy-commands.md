@@ -6,6 +6,5 @@ The usual deploy command in the new version of serverless is <b>serverless deplo
 If you want to deploy any specific function only without deploying the rest of the application you can use <b>serverless deploy -f <function_name></b> OR <b>sls deploy -f <function_name></b>. After running this command
 the desired output on the terminal should look like as below :-
   
-✔ Function code deployed 
-  
+✔ Function code deployed <br>
 Configuration did not change. Configuration update skipped. 
