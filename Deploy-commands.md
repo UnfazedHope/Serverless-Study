@@ -8,3 +8,5 @@ the desired output on the terminal should look like as below :-
   
 ✔ Function code deployed <br>
 Configuration did not change. Configuration update skipped. 
+  
+That's it, once you write your code without error, it should work pretty smooth.
