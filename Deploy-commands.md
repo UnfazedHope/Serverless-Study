@@ -7,4 +7,5 @@ If you want to deploy any specific function only without deploying the rest of t
 the desired output on the terminal should look like as below :-
   
 ✔ Function code deployed 
+  
 Configuration did not change. Configuration update skipped. 
