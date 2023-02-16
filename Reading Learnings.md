@@ -95,9 +95,9 @@
 
 <b>Learnings :</b> This article gives the overview of the security challenges developers/organizations usually face while using serverless computing. Here in this article it is said that usually Cloud service provider(CSP) provides the security and they handle the security of the infrastructural computing components of serverless technology. It's also given that how serverless environment reduces the attack surface and what are the major responsibilities of the CSP regarding the same.
 
-[<b>Reading 24 : </b>]()
+[<b>Reading 24 : What is Serverless Security?</b>](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-serverless-security/)
 
-<b>Learnings :</b>
+<b>Learnings :</b> In this article, different security advantages has been listed which serverless computing provides which makes it harder for the adversaries to attack on. Also Serverless security challenges and threats to the serverless computing has been mentioned in this article. The difficulties developers and the cloud service providers goes through also have been mentioned in the same description of the security of the serverless computing.
 
 
 
