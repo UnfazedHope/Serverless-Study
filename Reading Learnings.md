@@ -87,7 +87,17 @@
 
 <b>Learnings :</b> The paper focuses on the current state of Serverless Computing and highlights the challenges and limitations associated with it. It offers a comprehensive analysis of existing academic and industrial solutions and provides an in-depth examination of potential research opportunities within the field. The paper goes further to conduct a thorough evaluation of the current research landscape, identifying areas for improvement and future development. The authors aim to provide a comprehensive view of the Serverless Computing field, offering insight into existing problems and opportunities for growth. With the growing popularity of Serverless Computing, this paper serves as a valuable resource for anyone interested in understanding this technology and its potential for future trends in development.
 
+[<b>Reading 22 : Serverless computing: a security perspective</b>](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-022-00347-w)
 
+<b>Learnings :</b> In this paper, security shortcomings of the analyzed serverless architectures paradigms are mentioned and the possible countermeasure regarding the same. At first, we get to know how serverless computing came to be what it is through series of changes over the time where VM's were used at first and after that services such as microservices came into picture, but as there were few drawbacks serverless computing was used. Serveral types of attacks which adversaries tries to do was discussed in the paper like DOS, Denial of Wallet, Long term attacks, Injection, etc and the possible countermeasures against them.
+
+[<b>Reading 23 : Serverless Computing: Security and Challenges</b>](https://beaglesecurity.com/blog/article/serverless-computing-security.html)
+
+<b>Learnings :</b> This article gives the overview of the security challenges developers/organizations usually face while using serverless computing. Here in this article it is said that usually Cloud service provider(CSP) provides the security and they handle the security of the infrastructural computing components of serverless technology. It's also given that how serverless environment reduces the attack surface and what are the major responsibilities of the CSP regarding the same.
+
+[<b>Reading 24 : </b>]()
+
+<b>Learnings :</b>
 
 
 
