@@ -103,7 +103,31 @@
 
 <b>Learnings :</b> In this article, various types of Serverless Computing Platforms are mentioned and discussed which are open source(i.e. open to use globally). The article discussed about Apache OpenWhisk, Fission, IronFunctions, FnProject, OpenLambda, Kubeless, OpenFaaS, etc. The example is also shown on this website's article on where and how to start developing the serverless application with a cloud-native platform such as Kubernetes, Knative Serving, and Istio.
 
+[<b>Reading 26 : Top 10 Open Source Serverless Platforms</b>](https://blog.back4app.com/open-source-serverless-platforms/)
 
+<b>Learnings :</b> In the article, different types of Serverless Platforms are mentioned and discussed which are open source(i.e. open to use globally). This article is similar to the previous one, just this one has more information regarding the comparision between different platforms which includes it's benefits, features, pricing, etc. In addition to the before reading some platforms which mentioned were Back4app, Parse, AWS Amplify, Kuzzle, etc. Most of the benefits which are commom in all of them and is neccessary are Easy deployment, Cost and Scalability.
 
+[<b>Reading 27 : </b>]()
 
+<b>Learnings :</b> 
+
+[<b>Reading 28 : </b>]()
+
+<b>Learnings :</b> 
+
+[<b>Reading 29 : </b>]()
+
+<b>Learnings :</b> 
+
+[<b>Reading 30 : </b>]()
+
+<b>Learnings :</b> 
+
+[<b>Reading 31 : </b>]()
+
+<b>Learnings :</b> 
+
+[<b>Reading 32 : </b>]()
+
+<b>Learnings :</b> 
 
