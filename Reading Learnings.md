@@ -99,7 +99,9 @@
 
 <b>Learnings :</b> In this article, different security advantages has been listed which serverless computing provides which makes it harder for the adversaries to attack on. Also Serverless security challenges and threats to the serverless computing has been mentioned in this article. The difficulties developers and the cloud service providers goes through also have been mentioned in the same description of the security of the serverless computing.
 
+[<b>Reading 25 : Open Source Platforms for Serverless Computing</b>](https://opensource.com/article/18/11/open-source-serverless-platforms)
 
+<b>Learnings :</b> In this article, various types of Serverless Computing Platforms are mentioned and discussed which are open source(i.e. open to use globally). The article discussed about Apache OpenWhisk, Fission, IronFunctions, FnProject, OpenLambda, Kubeless, OpenFaaS, etc. The example is also shown on this website's article on where and how to start developing the serverless application with a cloud-native platform such as Kubernetes, Knative Serving, and Istio.
 
 
 
