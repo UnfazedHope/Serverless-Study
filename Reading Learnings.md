@@ -109,7 +109,7 @@
 
 [<b>Reading 27 : Serverless Computing and the Emergence of Function-as-a-Service </b>](https://ieeexplore.ieee.org/document/9573962)
 
-<b>Learnings :</b> 
+<b>Learnings :</b> This research paper's aim is to describe the need for serverless computing, it's working, etc. Various Serverless Computing providers and their services have also been compared and studied. This research paper brings fore the rise of serverless architecture architecture, more specifically, how the pay-as-you-go model and the auto-scaling nature have so efficiently caused the bussinesses to consider revamping their cloud infrastructure. Serverless computing has gained significant traction in recent years due to its cost-effectiveness and scalability features. The paper delves into the working of serverless computing, which involves the execution of code in a cloud environment without the need for server provisioning or management. It also compares and studies various serverless computing providers and their services, providing an in-depth understanding of the choices available in the market.
 
 [<b>Reading 28 : Serverless Computing: Functions as a Service </b>](https://www.oak-tree.tech/blog/serverless-primer)
 
