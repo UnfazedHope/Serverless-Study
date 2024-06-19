@@ -1,1 +1,1 @@
-# CS-6950-Independent-Study
+# Serverless Study I did which was part of my Independent Study at University of Utah
